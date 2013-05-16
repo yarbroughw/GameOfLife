@@ -6,7 +6,7 @@ A year-old Processing implementation of Conway's Game of Life, as the final proj
 ### Usage
 After running in Processing...
 
-+ <ENTER> runs the game
-+ <R> randomizes the grid
-+ <SPACEBAR> to clear grid
-+ Click/Click+Drag to turn cells on/off
++ ENTER - runs the game
++ R - randomizes the grid
++ SPACEBAR - clears grid
++ Click/Click+Drag - turns cells on/off
